@@ -10,7 +10,7 @@ O projeto utiliza as seguintes tecnologias e bibliotecas:
 - [SQLModel](https://sqlmodel.tiangolo.com/) - Interface para bancos de dados SQL em Python.
 - [Matplotlib Pyplot](https://matplotlib.org/stable/api/pyplot_summary.html) - Biblioteca para geração de gráficos.
 
-## Como usar
+## 🛠️ Como usar
 
 1. Instale as dependências
 2. Execute o script principal
