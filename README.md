@@ -6,7 +6,7 @@ Este é um programa simples para gerenciar finanças pessoais, permitindo regist
 
 O projeto utiliza as seguintes tecnologias e bibliotecas:
 
-- Python 3
+- [Python 3](https://www.python.org/) - Linguagem de programação usada no projeto.
 - [SQLModel](https://sqlmodel.tiangolo.com/) - Interface para bancos de dados SQL em Python.
 - [Matplotlib Pyplot](https://matplotlib.org/stable/api/pyplot_summary.html) - Biblioteca para geração de gráficos.
 
@@ -19,15 +19,14 @@ O projeto utiliza as seguintes tecnologias e bibliotecas:
 
 Antes de executar o programa, instale as bibliotecas necessárias com:
 
-````sh
 pip install sqlmodel matplotlib
 
 ## 🚀 Como executar o programa
+
 1. Criar o banco de dados:
-No terminal, execute:
-``` python models.py
+   No terminal, execute:
+   `python models.py`
 
 2. Iniciar o programa:
-Execute o arquivo principal:
-``` python template.py
-````
+   Execute o arquivo principal:
+   `python template.py`
